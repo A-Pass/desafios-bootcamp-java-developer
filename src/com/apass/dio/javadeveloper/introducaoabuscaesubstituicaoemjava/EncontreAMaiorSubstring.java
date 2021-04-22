@@ -1,4 +1,4 @@
-package com.apass.introducaoabuscaesubstituicaoemjava;
+package com.apass.dio.javadeveloper.introducaoabuscaesubstituicaoemjava;
 
 import java.io.BufferedReader;
 import java.io.IOException;
