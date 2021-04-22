@@ -4,9 +4,9 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.regex.Pattern;
 
-public class ValidadorDeDenhasComRequisitos {
-    public final static int MAX = 200;
+// 3. Validador de senhas com requisitos
 
+public class ValidadorDeDenhasComRequisitos {
     public static void main(String[] args) throws Exception {
 
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
