@@ -3,9 +3,7 @@ package com.apass.dio.javadeveloper.introducaoabuscaesubstituicaoemjava;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 // 4. Pedra, Papel, Tesoura, Lagarto e Spock
 public class PedraPapelTesouraLagartoSpock {
